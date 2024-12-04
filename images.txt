@@ -3,3 +3,6 @@
 xhofe/alist
 ollama/ollama
 jeessy/ddns-go
+ionewu/owjdxb
+tailscale/tailscale
+zerotier/zerotier
