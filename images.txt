@@ -7,3 +7,6 @@ ionewu/owjdxb
 tailscale/tailscale
 zerotier/zerotier
 haroldli/xiaoya-tvbox
+johngong/calibre-web
+hslr/sun-panel
+moelin/1panel
