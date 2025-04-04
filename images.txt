@@ -9,7 +9,6 @@ frooodle/s-pdf
 linzeyi/hivision_idphotos
 ghcr.io/alexta69/metube
 foamzou/melody
-whyours/qinglong
 registry.fit2cloud.com/halo/halo
 gethomepage/homepage
 xhofe/alist
