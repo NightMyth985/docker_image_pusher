@@ -17,5 +17,4 @@ linuxserver/transmission
 p3terx/aria2-pro
 p3terx/ariang
 homeassistant/home-assistant
-soroke/istoreos
 neosmemo/memos
