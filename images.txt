@@ -9,12 +9,10 @@ frooodle/s-pdf
 linzeyi/hivision_idphotos
 ghcr.io/alexta69/metube
 foamzou/melody
-registry.fit2cloud.com/halo/halo
 gethomepage/homepage
 xhofe/alist
 corentinth/it-tools
 excalidraw/excalidraw
-ghcrniu.edu.cn/ourongxing/newsnow
 linuxserver/transmission
 p3terx/aria2-pro
 p3terx/ariang
